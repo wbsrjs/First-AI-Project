@@ -1,0 +1,7 @@
+## 效果预览
+https://github.com/wbsrjs/First-AI-Project/assets/你的用户名/emoMV.mp4
+
+## 下一步
+- [ ] 网页版（Streamlit）
+- [ ] 自动配字幕 & 节拍闪白
+- [ ] 小程序部署
